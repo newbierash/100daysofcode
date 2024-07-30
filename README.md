@@ -12,3 +12,6 @@ This program gets the total bill, tip amount and the amount of people as input a
 
 ## 💻 Project 003: treasure-island
 This is a game where you aim to reach the treasure on the island. One of the scenarios prepared according to the direction, action and color preference questions asked by the program takes place. There is only one winning scenario. You can also fork the project to add new scenarios or modify existing scenarios.
+
+## 💻 Project 004: rock-paper-scissors
+This is a basic rock-paper-scissors game supported with ASCII arts. Program gets our move as an input and generates random move for the computer. Then the program decides who the winner is according to the rules of the game. [Click here](https://wrpsa.com/) to know more about the game rock-paper-scissors.
