@@ -15,3 +15,9 @@ This is a game where you aim to reach the treasure on the island. One of the sce
 
 ## 💻 Project 004: rock-paper-scissors
 This is a basic rock-paper-scissors game supported with ASCII arts. Program gets our move as an input and generates random move for the computer. Then the program decides who the winner is according to the rules of the game. [Click here](https://wrpsa.com/) to know more about the game rock-paper-scissors.
+
+## 💻 Project 005: password-generator
+It's a simple password generator app that generates a password with as many letters, symbols and numbers as you enter. The description of this exercise, which consists of two levels: simple and difficult, is as follows: At the simple level the password is generated with a static sequence of random letters, symbols and numbers, while at the hard level it is generated in random order.
+
+## 💻 Project 006: escape-the-maze
+While I can't provide much clarity on this exercise, you can check out the original site by [clicking here](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json) to see the code in action. It is a game where you aim to reach the final point by moving through the walls in a randomly generated frame. Note: since the code has built-in functions, it can only be run through the built-in editor of the site via the link I mentioned.
