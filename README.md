@@ -21,3 +21,9 @@ It's a simple password generator app that generates a password with as many lett
 
 ## 💻 Project 006: escape-the-maze
 While I can't provide much clarity on this exercise, you can check out the original site by [clicking here](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json) to see the code in action. It is a game where you aim to reach the final point by moving through the walls in a randomly generated frame. Note: since the code has built-in functions, it can only be run through the built-in editor of the site via the link I mentioned.
+
+## 💻 Project 007: hangman
+here comes a description
+
+## 💻 Project 008: ceaser-cipher
+here comes a description
