@@ -8,7 +8,7 @@ git clone https://github.com/newbierash/100daysofcode.git
 This is a basic program which uses the inputs: the city you grew up in and your pet's name to generate a band name. You can [click here](https://appbrewery.github.io/python-day1-demo/) to preview demo on without influencing your device.
 
 ## 💻 Project 002: tip-calculator
-This program gets the total bill, tip amount and the amount of people as input and automatically calculates the amout of money which every person should pay. You can [click here](https://appbrewery.github.io/python-day1-demo/) to preview demo on without influencing your device.
+This program gets the total bill, tip amount and the amount of people as input and automatically calculates the amout of money which every person should pay. You can [click here](https://appbrewery.github.io/python-day2-demo/) to preview demo on without influencing your device.
 
 ## 💻 Project 003: treasure-island
 This is a game where you aim to reach the treasure on the island. One of the scenarios prepared according to the direction, action and color preference questions asked by the program takes place. There is only one winning scenario. You can also fork the project to add new scenarios or modify existing scenarios.
@@ -26,4 +26,13 @@ While I can't provide much clarity on this exercise, you can check out the origi
 here comes a description
 
 ## 💻 Project 008: ceaser-cipher
+here comes a description
+
+## 💻 Project 009: secret-auction
+here comes a description
+
+## 💻 Project 010: calculator
+here comes a description
+
+## 💻 Project 011: blackjack
 here comes a description
