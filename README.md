@@ -36,3 +36,9 @@ here comes a description
 
 ## 💻 Project 011: blackjack
 here comes a description
+
+## 💻 Project 012: number-guessing-game
+here comes a description
+
+## 💻 Project 013: higher-lower
+here comes a description
