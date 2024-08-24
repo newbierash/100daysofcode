@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5f0499f-d8ad-4061-9a1f-1bb8990d9216" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/snake/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snake/snake.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake/food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake/snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +43,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.a.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.scoreboard.executor": "Run",
     "Python.snake.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
